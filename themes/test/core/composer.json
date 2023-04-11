@@ -1,0 +1,19 @@
+{
+    "name": "test/core",
+    "description": "",
+    "type": "laravel-theme",
+    "version": "",
+    "minimum-stability": "stable",
+    "authors": [
+        {
+            "name": "",
+            "email": ""
+        }
+    ],
+    "extra": {
+        "theme": {
+            "parent": "",
+            "active": true
+        }
+    }
+}
